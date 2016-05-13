@@ -4,7 +4,6 @@ import random
 from curses import KEY_RIGHT, KEY_LEFT, KEY_UP, KEY_DOWN
 from curses import wrapper
 import time
-import sys
 
 def main(stdscr):
     stdscr.clear()
